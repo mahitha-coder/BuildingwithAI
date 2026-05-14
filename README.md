@@ -3,3 +3,5 @@ Hands-on exploration of LLMs and agentic AI — covering prompt engineering, RAG
 
 llm, generative-ai, agentic-ai, langchain, gemini, openai, prompt-engineering, 
 rag, python, multi-agent
+
+Day 1 : First LLM Call using an API from Google Studio
